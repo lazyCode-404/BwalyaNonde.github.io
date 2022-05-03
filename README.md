@@ -35,3 +35,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+## Author
+👤 *Bwalya Nonde
+
+- GitHub [BwalyaNonde]: https://github.com/BwalyaNonde
+- Twitter [@nonde_bwalya]: https://twitter.com/nonde_bwalya
+- LinkedIn [Bwalya Nonde]: https://www.linkedin.com/in/bwalya-nonde-5865601a9/
+
